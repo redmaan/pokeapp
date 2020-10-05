@@ -25,7 +25,7 @@ let NexUrl = null;
 
 
 
-//Funtions
+//Functions
 
 //Change the first letter to UP of pokeNAme
 const capitalize = (String) => String[0].toUpperCase() + String.substring(1);
